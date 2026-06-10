@@ -8,14 +8,14 @@ Python was used to prepare and transform the dataset before visualization.
 ### Key Activities
 Data cleaning and preprocessing,
 Handling of missing values and duplicates,
-Data exploration and validation,
+Data exploration and validation,and
 Exporting the cleaned dataset for Power BI analysis.
 ## 📉 Dashboard Features
 KPI cards for key business metrics,
 Revenue analysis by categories, 
 Trend score analysis,
 Top-performing products visualization,
-Trend score versus revenue comparison,
+Trend score versus revenue comparison, and
 Interactive slicers for dynamic filtering.
 ### 🔎  Key Insights
 Certain products categories generate significantly higher revenue than others.
@@ -28,14 +28,14 @@ Focus on categories with strong revenue performance and growth potential.
 Use trend insights to support inventory planning and product strategy. 
 Continuously monitor products trends to identify emerging opportunities.
 ## 🛠 Tools Used
-Python (Pandas,Numpy)
-Power BI
-Excel
+Python (Pandas,Numpy),
+Power BI,
+Excel, and
 Jupyter Notebook (.ipynb)
 ## 🎯 Skills Demonstrated
-Data Cleaning and Transformation
-Exploratory Data Analysis (EDA)
-Data Visualization
-Business Intelligence Reporting
-Dashboard Development
+Data Cleaning and Transformation,
+Exploratory Data Analysis (EDA),
+Data Visualization,
+Business Intelligence Reporting,
+Dashboard Development, and 
 Insight Generation and Business Recommendations. 
