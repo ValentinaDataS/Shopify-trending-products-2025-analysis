@@ -23,9 +23,9 @@ Some products exhibit relatively low revenue, indicating potential growth opport
 Product performance varies considerably across categories and subcategories, and 
 Trend analysis provides valuable insight into emerging product opportunities.
 ## 💡 Business Recommendation
-Increase marketing efforts for high-trend, low-revenue products. 
-Focus on categories with strong revenue performance and growth potential.
-Use trend insights to support inventory planning and product strategy. 
+Increase marketing efforts for high-trend and low-revenue products. 
+Focus on categories with strong revenue performance and growth potential,
+Use trend insights to support inventory planning and product strategy, and  
 Continuously monitor products trends to identify emerging opportunities.
 ## 🛠 Tools Used
 Python (Pandas,Numpy),
