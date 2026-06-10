@@ -6,17 +6,17 @@ https://github.com/ValentinaDataS/Shopify-trending-products-2025-analysis/blob/m
 ## Python Workflow
 Python was used to prepare and transform the dataset before visualization.
 ### Key Activities
-Data cleaning and preprocessing
-Handling of missing values and duplicates
-Data exploration and validation
-Exporting the cleaned dataset for Power BI analysis 
+Data cleaning and preprocessing,
+Handling of missing values and duplicates,
+Data exploration and validation,
+Exporting the cleaned dataset for Power BI analysis.
 ## 📉 Dashboard Features
-KPI cards for key business metrics
-Revenue analysis by categories 
-Trend score analysis
-Top-performing products visualization
-Trend score versus revenue comparison
-Interactive slicers for dynamic filtering 
+KPI cards for key business metrics,
+Revenue analysis by categories, 
+Trend score analysis,
+Top-performing products visualization,
+Trend score versus revenue comparison,
+Interactive slicers for dynamic filtering.
 ### 🔎  Key Insights
 Certain products categories generate significantly higher revenue than others.
 Some products exhibit relatively low revenue, indicating potential growth opportunities.
