@@ -1,5 +1,5 @@
 # Shopify Trending Products 2025 Analysis Dashboard
-##📊 Project Overview
+## 📊 Project Overview
 This project analyzes Shopify Product data to identify trending products, evaluate revenue performance, and uncover business growth opportunities for 2025. This analysis combines python for data preparation and Power BI for interactive visualization and business intelligence reporting.
 ## 📸 Dashboard Preview 
 Screenshot 2026-06-09 211437.png
