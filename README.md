@@ -2,7 +2,7 @@
 ## 📊 Project Overview
 This project analyzes Shopify Product data to identify trending products, evaluate revenue performance, and uncover business growth opportunities for 2025. This analysis combines python for data preparation and Power BI for interactive visualization and business intelligence reporting.
 ## 📸 Dashboard Preview 
-Screenshot 2026-06-09 211437.png
+https://github.com/ValentinaDataS/Shopify-trending-products-2025-analysis/blob/main/Screenshot%202026-06-09%20211437.png
 ## Python Workflow
 Python was used to prepare and transform the dataset before visualization.
 ### Key Activities
